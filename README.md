@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anshu Bajpai</h1>
 <h3 align="center">Currently a CSE undergraduate(2020-2024).</h3>
-<img align="center" alt="coding" width="600" src="https://blog.hyperiondev.com/wp-content/uploads/2018/09/Blog-Article-MERN-Stack.jpg"
+<img align="center" alt="coding" width=50%; src="https://blog.hyperiondev.com/wp-content/uploads/2018/09/Blog-Article-MERN-Stack.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshu9b&label=Profile%20views&color=0e75b6&style=flat" alt="anshu9b" /> </p>
 
-- 🌱 I’m currently learning **MERN stack.**
+- 🌱 I’m currently developing using **React**
 
 - 📝 I regularly write articles on [https://medium.com/@Miss_Spacegirl9](https://medium.com/@Miss_Spacegirl9)
 

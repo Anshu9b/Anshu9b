@@ -1,20 +1,19 @@
 <h1 align="center">Hi 👋, I'm Anshu Bajpai</h1>
 <h3 align="center">Currently a CSE undergraduate(2020-2024).</h3>
-<img align="center" alt="coding" width=50%; src="https://blog.hyperiondev.com/wp-content/uploads/2018/09/Blog-Article-MERN-Stack.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshu9b&label=Profile%20views&color=0e75b6&style=flat" alt="anshu9b" /> </p>
 
 - 🌱 I’m currently developing using **React**
 
-- 📝 I regularly write articles on [https://medium.com/@Miss_Spacegirl9](https://medium.com/@Miss_Spacegirl9)
+- 📝 I sometimes write articles on [https://medium.com/@Miss_Spacegirl9](https://medium.com/@Miss_Spacegirl9)
 
 - 💬 Ask me about **html,css,javascript, react,express.**
 
 - 📫 How to reach me **anshu09bajpai@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1d9UfC0LXG0wQz6Or5caIL6GN3I9aMDR8/view?usp=share_link](https://drive.google.com/file/d/1d9UfC0LXG0wQz6Or5caIL6GN3I9aMDR8/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/18N0PqgwZMusw2we40v3WAIiKIetXPApH/view?usp=share_link](https://drive.google.com/file/d/18N0PqgwZMusw2we40v3WAIiKIetXPApH/view?usp=share_link)
 
-- ⚡ Fun fact **I boost my energy at 2 am:()**
+- ⚡ Fun fact **I boost my energy at 12 am:()**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,7 +22,7 @@
 <a href="https://medium.com/@missspacegirl9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@missspacegirl9" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/miss09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="miss09" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/anshu_9b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anshu_9b" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/miss09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="miss09" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/miss_code09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="miss_code09" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

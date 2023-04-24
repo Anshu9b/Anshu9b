@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **anshu09bajpai@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18N0PqgwZMusw2we40v3WAIiKIetXPApH/view?usp=share_link](https://drive.google.com/file/d/18N0PqgwZMusw2we40v3WAIiKIetXPApH/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fGLi84s5zmWEcMPeAHT5_s5CNHIM88gD/view?usp=share_link)
 
 - ⚡ Fun fact **I boost my energy at 12 am:()**
 

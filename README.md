@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently developing using **React**
 
-- 📝 I sometimes write articles on [https://medium.com/@Miss_Spacegirl9](https://medium.com/@Miss_Spacegirl9)
+- 📝 I sometimes write articles on [Medium](https://medium.com/@Miss_Spacegirl9)
 
 - 💬 Ask me about **html,css,javascript, react,express.**
 

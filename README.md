@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshu9b&label=Profile%20views&color=0e75b6&style=flat" alt="anshu9b" /> </p>
 
-- 🌱 I’m currently developing using **React**
+- 🌱 I’m currently working on **Backend engineering**
 
 - 📝 I sometimes write articles on [Medium](https://medium.com/@Miss_Spacegirl9)
 

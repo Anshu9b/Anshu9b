@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **anshu09bajpai@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1dOx83kwMkuA1yka0Pz8J3khmPJNAYOjb/view?usp=drive_link])
 
 
 <h3 align="left">Coding Profiles</h3>

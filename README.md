@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **NavJeevan- a HealthCare Ecosystem Application**
 
-- 💬 Ask me about ** Frontend  & Backend using (Reactjs, Rest Apis, Nodejs , SQL/NOSQL) ,Data Structures & Algorithm concepts, low-level designing of applications.
+- 💬 Ask me about  Frontend  & Backend using (Reactjs, Rest Apis, Nodejs , SQL/NOSQL) ,Data Structures & Algorithm concepts, low-level designing of applications.
 
 - 📫 How to reach me **anshu09bajpai@gmail.com**
 

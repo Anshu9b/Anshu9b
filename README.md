@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anshu Bajpai </h1>
-<h3 align="center">Currently a CSE undergraduate (2020-2024) with a keen interest in building  software developement applications and working on problem solving skills. Actively looking for SDE intern roles.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshu9b&label=Profile%20views&color=0e75b6&style=flat" alt="anshu9b" /> </p>
 
 - 🔭 I’m currently working on **NavJeevan- a HealthCare Ecosystem Application**
-
-- 🌱 I’m currently learning Backend engineering using ( JavaScript and Nodejs )
 
 - 💬 Ask me about ** Frontend  & Backend using (Reactjs, Rest Apis, Nodejs , SQL/NOSQL) ,Data Structures & Algorithm concepts, low-level designing of applications.
 

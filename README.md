@@ -1,4 +1,17 @@
-<h1 align="center">Hi 👋, I'm Anshu Bajpai </h1>
+<h1 align="center">Hi , I'm Anshu Bajpai </h1>
+
+
+
+
+![githubimg](https://github.com/Anshu9b/Anshu9b/assets/75524307/51f2e4b4-2be4-4a0e-a3b8-208d3751ae8b)
+
+
+
+
+
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshu9b&label=Profile%20views&color=0e75b6&style=flat" alt="anshu9b" /> </p>
 
@@ -11,7 +24,6 @@
 
 
 <h3 align="left">Coding Profiles</h3>
-<a href="https://www.codechef.com/users/miss09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="miss09" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/anshu_9b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anshu_9b" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/miss_code09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="miss_code09" height="30" width="40" /></a>
 

@@ -6,13 +6,6 @@
 ![githubimg](https://github.com/Anshu9b/Anshu9b/assets/75524307/51f2e4b4-2be4-4a0e-a3b8-208d3751ae8b)
 
 
-
-
-
-
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshu9b&label=Profile%20views&color=0e75b6&style=flat" alt="anshu9b" /> </p>
 
 - 🔭 I’m currently working on **NavJeevan- a HealthCare Ecosystem Application**
@@ -20,8 +13,6 @@
 - 💬 Ask me about  Frontend  & Backend using (Reactjs, Rest Apis, Nodejs , SQL/NOSQL) ,Data Structures & Algorithm concepts, low-level designing of applications.
 
 - 📫 How to reach me **anshu09bajpai@gmail.com**
-
-
 
 ## 🔧 Technologies & Tools
 #### **Languages**

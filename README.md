@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as Junior Software Engineer- CAM Solutions at SolidCAM- the Solid Platform for CAM Solutions.
 
-- 💬 My daily life surrounds working with C++, MFC, Oops concepts, Javascript, Mysql, Git, Tortoise SVN. I am skilled in C,C++, Data Structures & Algorithm concepts,Javascript, Frameworks (Reactjs), Api development, Nodejs, SQL/NOSQL,low-level designing of applications.
+- 💬 My daily life surrounds working with C++, MFC, Oops concepts, Javascript, Mysql, Git, Tortoise SVN. I am skilled in C,C++, Data Structures & Algorithm concepts, Object oriented programming, Javascript, Frameworks (Reactjs), Api development, Nodejs, SQL/NOSQL,low-level designing of applications.
 
 - 📫 How to reach me **anshu09bajpai@gmail.com**
 - [![An image of @anshu9b's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshu9b)](https://holopin.io/@anshu9b)

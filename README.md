@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshu9b&label=Profile%20views&color=0e75b6&style=flat" alt="anshu9b" /> </p>
 
-- 🔭 I’m currently working on **NavJeevan- a HealthCare Ecosystem Application**
+- 🔭 I’m currently working as Junior Software Engineer- CAM Solutions at SolidCAM- the solid CAM Solutions.
 
-- 💬 Ask me about  Frontend  & Backend using (Reactjs, Rest Apis, Nodejs , SQL/NOSQL) ,Data Structures & Algorithm concepts, low-level designing of applications.
+- 💬 My daily life surrounds working with C++, MFC, Oops concepts, Javascript, Mysql, Git, Tortoise SVN. I am skilled in C,C++, Data Structures & Algorithm concepts,Javascript, Frameworks (Reactjs), Api development, Nodejs, SQL/NOSQL,low-level designing of applications.
 
 - 📫 How to reach me **anshu09bajpai@gmail.com**
 - [![An image of @anshu9b's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshu9b)](https://holopin.io/@anshu9b)

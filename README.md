@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshu9b&label=Profile%20views&color=0e75b6&style=flat" alt="anshu9b" /> </p>
 
-- 🔭 I’m currently working as Junior Software Engineer- CAM Solutions at SolidCAM- the Solid Platform for CAM Solutions.
+- 🔭 I’m currently working as Software Engineer- CAM Solutions at SolidCAM- the Solid Platform for CAM Solutions.
 
 - I am skilled in C,C++, Data Structures & Algorithm concepts, Object oriented programming, Java SQL/NOSQL,low-level designing of applications.
 
